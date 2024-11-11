@@ -1,8 +1,6 @@
 # Olá, eu sou Adolpho Salvador 👋
 
-<i class="devicon-python-plain-wordmark"></i>
-<i class="devicon-sql-plain-wordmark"></i>
-<i class="devicon-django-plain-wordmark"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
 ## 👨‍💻 Sobre Mim
