@@ -1,5 +1,7 @@
 # Olá, eu sou Adolpho Salvador 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=prs&include_all_commits=true&theme=dark&hide_title=true&custom_title=GitHub%20Stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Adolpho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adolpho-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
