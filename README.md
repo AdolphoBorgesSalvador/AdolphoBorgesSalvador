@@ -1,9 +1,9 @@
 # Olá, eu sou Adolpho Salvador 👋
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL-Logo.svg)
-![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/a/a8/Power_BI_Logo.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg)
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
+
 
 ## 👨‍💻 Sobre Mim
 Sou engenheiro com paixão por análise de dados. Com experiência em Python, SQL e Django, crio soluções eficientes para agilizar fluxos de trabalho e ajudar organizações a tomar decisões baseadas em dados. Atualmente, estou trabalhando em vários projetos envolvendo governança de dados, aprendizado de máquina e aprimoramento de modelos de previsão.
