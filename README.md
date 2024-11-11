@@ -10,10 +10,9 @@
   <img align="center" alt="Adolpho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdolphoBorgesSalvador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=150&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
- ###
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdolphoBorgesSalvador&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdolphoBorgesSalvador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AdolphoBorgesSalvador&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
