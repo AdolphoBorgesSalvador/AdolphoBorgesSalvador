@@ -33,5 +33,8 @@ Sou engenheiro com paixão por análise de dados. Com experiência em Python, SQ
 - Otimização de processos e melhoria de eficiência.
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/adolpho-salvador/)
-- [E-mail](mailto:adolpho.b@outlook.com)
+<div> 
+  <a href = "mailto:adolpho.b@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adolpho-salvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
