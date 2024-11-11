@@ -10,12 +10,15 @@
   <img align="center" alt="Adolpho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
+###
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdolphoBorgesSalvador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=150&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
+ ###
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdolphoBorgesSalvador&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
 
 ## 👨‍💻 Sobre Mim
 Sou engenheiro com paixão por análise de dados. Com experiência em Python, SQL e Django, crio soluções eficientes para agilizar fluxos de trabalho e ajudar organizações a tomar decisões baseadas em dados. Atualmente, estou trabalhando em vários projetos envolvendo governança de dados, aprendizado de máquina e aprimoramento de modelos de previsão.
