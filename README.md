@@ -1,5 +1,5 @@
 # Olá, eu sou Adolpho Salvador 👋
-
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adolpho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -9,8 +9,6 @@
   <img align="center" alt="Adolpho-Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
   <img align="center" alt="Adolpho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-
-###
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdolphoBorgesSalvador&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=150&theme=dracula&hide_border=true&order=2" height="300" alt="languages graph"  />
