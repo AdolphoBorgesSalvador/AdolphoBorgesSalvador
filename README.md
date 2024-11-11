@@ -1,8 +1,8 @@
 # Olá, eu sou Adolpho Salvador 👋
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg)
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)
+<i class="devicon-python-plain-wordmark"></i>
+<i class="devicon-sql-plain-wordmark"></i>
+<i class="devicon-django-plain-wordmark"></i>
 
 
 ## 👨‍💻 Sobre Mim
