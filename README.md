@@ -1,7 +1,5 @@
 # Olá, eu sou Adolpho Salvador 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdolphoBorgesSalvador&show_icons=true&count_private=true&hide=prs&include_all_commits=true&theme=dark&hide_title=true&custom_title=GitHub%20Stats&access_token=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)
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adolpho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
