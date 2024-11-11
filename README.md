@@ -1,7 +1,5 @@
 # Olá, eu sou Adolpho Salvador 👋
 
----
-
 ## Tecnologias que uso
 
 <div style="display: inline_block"><br>
@@ -13,8 +11,6 @@
   <img align="center" alt="Adolpho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 </div>
-
----
 
 ## GitHub Stats
 
