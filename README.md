@@ -50,4 +50,3 @@ Sou engenheiro com paixão por análise de dados. Com experiência em Python, SQ
 <img src="https://raw.githubusercontent.com/AdolphoBorgesSalvador/AdolphoBorgesSalvador/output/snake.svg" alt="Snake animation" />
 
 ###
-</div>
