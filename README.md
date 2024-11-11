@@ -21,7 +21,6 @@
 </div>
 
 
----
 
 ## 👨‍💻 Sobre Mim
 Sou engenheiro com paixão por análise de dados. Com experiência em Python, SQL e Django, crio soluções eficientes para agilizar fluxos de trabalho e ajudar organizações a tomar decisões baseadas em dados. Atualmente, estou trabalhando em vários projetos envolvendo governança de dados, aprendizado de máquina e aprimoramento de modelos de previsão.
