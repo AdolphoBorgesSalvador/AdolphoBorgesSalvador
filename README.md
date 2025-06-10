@@ -12,7 +12,7 @@
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Adolpho-Postgres" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
   <img align="center" alt="Adolpho-Docker" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
-  <img align="center" alt="Adolpho-AWS" height="30" width="20" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+  <img align="center" alt="Adolpho-AWS" height="30" width="30" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
 
   
 </div>
