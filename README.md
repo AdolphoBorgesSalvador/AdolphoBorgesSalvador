@@ -28,28 +28,50 @@
 
 
 
-## 👨‍💻 Sobre Mim
-Sou engenheiro com paixão por análise de dados. Com experiência em Python, SQL e Django, crio soluções eficientes para agilizar fluxos de trabalho e ajudar organizações a tomar decisões baseadas em dados. Atualmente, estou trabalhando em vários projetos envolvendo governança de dados, aprendizado de máquina e aprimoramento de modelos de previsão.
+# Sobre Mim
 
-## 🚀 No que estou trabalhando
-- Desenvolvendo scripts para automação de processamento de dados e integração de sistemas.
-- Melhorando modelos de previsão para prever a demanda com mais precisão.
-- Aprimorando meus conhecimentos em técnicas avançadas de engenharia de dados.
+Sou Cientista de Dados com formação em Engenharia, especializado em desenvolver soluções de dados que conectam análise, automação e performance.  
+Com forte domínio de Python, SQL e Django, crio pipelines e sistemas que otimizam processos e entregam insights estratégicos.
 
-## 📚 Atualmente, estou aprendendo
-- Técnicas avançadas de aprendizado de máquina.
-- Melhores práticas de Governança de Dados.
-- Computação em nuvem e ferramentas de Big Data.
+Atualmente, trabalho em projetos que envolvem:
 
-## 🤝 Estou aberto a colaborar em
-- Projetos relacionados a engenharia de dados, aprendizado de máquina e automação de processos.
-- Contribuições para projetos open-source em Python ou áreas relacionadas a dados.
+- Modelos preditivos aplicados à demanda  
+- Automação de fluxos de dados com integração de múltiplas fontes  
+- Arquiteturas modernas para Engenharia de Dados  
 
-## 💬 Pergunte-me sobre
-- Análise de dados e visualização (Power BI, Tableau).
-- Scripts em Python e automação de dados.
-- Melhores práticas de governança de dados e segurança.
-- Otimização de processos e melhoria de eficiência.
+---
+
+## No que estou trabalhando
+
+- Automatização de ingestão, processamento e transformação de dados (ETL)  
+- Melhoria de modelos preditivos (ARIMA, LSTM) para previsão de demanda  
+- Aprimoramento de pipelines com foco em escalabilidade e eficiência (Python, Docker, SQL, AWS)
+
+---
+
+## Atualmente aprendendo
+
+- Técnicas avançadas de Machine Learning  
+- Computação em nuvem com foco em AWS e Big Data  
+- Arquitetura de dados moderna: Data Lake, Data Warehouse e processamento distribuído
+
+---
+
+## Aberto a colaborar em
+
+- Projetos de Engenharia de Dados, Ciência de Dados e automação inteligente  
+- Contribuições em open-source com foco em dados, Python e visualização  
+- Iniciativas que envolvam integração de dados, modelagem preditiva e melhoria contínua
+
+---
+
+## Pergunte-me sobre
+
+- Visualização e análise de dados com Power BI e Tableau  
+- ETL e automação de processos com Python  
+- Estruturação e otimização de pipelines de dados (SQL, Docker, Airflow)  
+- Integração de múltiplas fontes e melhoria de desempenho em projetos de dados
+
 
 ## 📫 Como me encontrar
 <div> 
