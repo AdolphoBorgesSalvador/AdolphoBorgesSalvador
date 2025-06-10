@@ -10,6 +10,8 @@
   <img align="center" alt="Adolpho-Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
   <img align="center" alt="Adolpho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Adolpho-Postgres" height="30" width="40" src="file:///C:/Users/Adolp/OneDrive/%C3%81rea%20de%20Trabalho/PostgresSQL.svg" />
+
 </div>
 
 ## GitHub Stats
