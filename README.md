@@ -4,15 +4,16 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adolpho-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Adolpho-Postgres" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+  <img align="center" alt="Adolpho-Docker" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+  <img align="center" alt="Adolpho-Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
+  <img align="center" alt="Adolpho-AWS" height="30" width="30" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
   <img align="center" alt="Adolpho-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Adolpho-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" alt="Adolpho-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-  <img align="center" alt="Adolpho-Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
   <img align="center" alt="Adolpho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Adolpho-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Adolpho-Postgres" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
-  <img align="center" alt="Adolpho-Docker" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
-  <img align="center" alt="Adolpho-AWS" height="30" width="30" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+
 
   
 </div>
